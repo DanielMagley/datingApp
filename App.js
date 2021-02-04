@@ -30,7 +30,7 @@ export default class App extends Component {
           <Button style={styles.bottomButton}>
             {/* <Text>Answer</Text>
             <Text>The Questions</Text> */}
-            <Text style={styles.buttonTitles}>Answer The Questions</Text>
+            <Text style={styles.buttonTitles}>Answegr The Questions</Text>
           </Button>
         </Content>
       </Container>
